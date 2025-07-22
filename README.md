@@ -87,7 +87,7 @@ After accessing the website, you can register, log in, view the product list, ad
 + **Back-end**: Node.js, Express.js, MongoDB
 + **Package and Tool Management**: npm, Git
 
-## References
+<!-- ## References
 
 + [Lab-01.pdf](https://drive.google.com/file/d/1D6JsGJ97Z4orF8oZet4JBQ4NJZWZTs0B/view?usp=sharing)
 + [Lab-02.pdf](https://drive.google.com/file/d/1NqOYNc0meQyOAIyL0hnFiGrEH-Uw5S_d/view?usp=sharing)
@@ -99,9 +99,9 @@ After accessing the website, you can register, log in, view the product list, ad
 + [Lab-08.pdf](https://drive.google.com/file/d/1DcL7ozWP1lkBxXXacHiUl0wvh2aoXJnF/view?usp=sharing)
 + [Lab-09.pdf](https://drive.google.com/file/d/11RfLKb_mCW7gvGGWFBqQPfMLz3TUkUSm/view?usp=sharing)
 + [Lab-10.pdf](https://drive.google.com/file/d/1zJO-AY2ALDBPvdI3YR5U-FXPOzhJEDEr/view?usp=sharing)
-+ [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node.pdf](https://drive.google.com/file/d/1jHtj0QknhbtrVoQifMZnCUCnO66GnbjK/view?usp=sharing)
++ [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node.pdf](https://drive.google.com/file/d/1jHtj0QknhbtrVoQifMZnCUCnO66GnbjK/view?usp=sharing) -->
 
 ## Author
-- **Name**: Ngo Tien Dung
-- **Contact**: tiendung8a6@gmail.com
-- **Phone**: +84 985872885
+- **Name**:Rohit Pratap Singh
+- **Contact**: rbhadoria_be22@thapar.edu
+
