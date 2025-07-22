@@ -1,12 +1,13 @@
 const MyConstants = {
-  DB_SERVER: 'onlineshopping.7eavwgm.mongodb.net',
-  DB_USER: 'tiendung8a6',
-  DB_PASS: 'C5QavQodd71CrZ0c',
-  DB_DATABASE: 'onlineshopping',
-  JWT_SECRET: 'tiendung8a6',
-  JWT_EXPIRES: '31556952000', // in milliseconds (01 year = 31556952000 ms)
-  EMAIL_USER: 'ngotdung2002@hotmail.com', // gmail service --Microsoft mail service
-  EMAIL_PASS: 'ngotiendung123'
+  DB_SERVER:'cluster1.cufosni.mongodb.net',
+  DB_USER: 'rohitsingh222004',
+  DB_PASS:'rohit222004',
+  DB_DATABASE: 'onlineshop',
+ JWT_SECRET: 'rohitSecret2025!',           // change to your own secret
+JWT_EXPIRES: '31556952000',
+
+EMAIL_USER: 'rohitsingh222004@gmail.com',       // only if you're sending emails
+EMAIL_PASS: 'rohit222004'
 };
 module.exports = MyConstants;
 
